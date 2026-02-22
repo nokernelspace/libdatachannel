@@ -15,5 +15,5 @@
 	shallow = true
 [submodule "deps/libsrtp"]
 	path = deps/libsrtp
-	url = https://github.com/cisco/libsrtp.git
+	url = https://github.com/nokernelspace/libsrtp.git
 	shallow = true
